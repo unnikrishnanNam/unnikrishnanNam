@@ -17,9 +17,14 @@ You can click the Preview link to take a look at your changes.
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=unnikrishnannam" alt="unnikrishnannam" /></a> </p>
 
-- 🌱 I’m currently learning **Data science**
+- 👀 I’m interested in 
+  - 🧑‍💻 Open-source software developement
+  - 🤖 Train-testing AI models
+  - 🌏 Web development
+  
+- 🌱 I’m currently learning about desktop frameworks 
 
-- 📫 How to reach me **9447unni9447@gmail.com**
+- 📫 You can reach me on 9447unni9447@gmail.com
 
 - ⚡ Fun fact **I don't work unless i want to.**
 
