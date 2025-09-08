@@ -51,7 +51,7 @@ A system that generates SQL queries based on natural language prompts using LLM 
 
 ## 📊 GitHub Stats
 
-![Unnikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnikrishnan-namboothiri&show_icons=true&theme=radical)
+![Unnikrishnan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=unnikrishnanNam&show_icons=true&theme=radical)
 
 ---
 
